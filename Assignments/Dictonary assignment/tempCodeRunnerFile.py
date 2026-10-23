@@ -1,0 +1,1 @@
+32. Predict the output:
